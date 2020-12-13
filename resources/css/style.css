@@ -43,3 +43,11 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 21px;
+    color: gray;
+    text-align: right;  
+}
